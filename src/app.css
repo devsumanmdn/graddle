@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+  margin-top: 20%;
+  padding: 10px;
+  font-family: Courier New, Courier, monospace;
+}
+
+.clockDays, .clockHours, .clockMinutes, .clockSeconds {
+  display: inline;
+  font-size: 20px;
+  margin: 10px;
+}
+
+.clockTitle {
+  font-size: 22px;
+}
